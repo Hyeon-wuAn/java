@@ -5,7 +5,7 @@ public class Array02 {
 		
 		
 		int nums[] = {1,3,5,7,9,10,12,19,900,30};
-		System.out.println(nums.length); //갯수 알 수 있음.
+		System.out.println(nums.length); //length로 갯수 알 수 있음.
 		int total = nums.length;
 		int sum = 0;
 		for(int i=0; i<total; i++) {

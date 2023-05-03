@@ -9,7 +9,7 @@ public class Score {
 		System.out.println(scoreList[2][0]);
 
 		System.out.println(scoreList.length);
-		System.out.println(scoreList[1].length);
+		System.out.println(scoreList[2].length);
 		double sum = 0;
 		for(int year=0; year<scoreList.length; year++) {
 			for(int term=0; term<scoreList[year].length; term++) {

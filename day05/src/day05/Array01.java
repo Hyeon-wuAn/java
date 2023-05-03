@@ -15,6 +15,7 @@ public class Array01 {
 		System.out.println("양수 5개를 입력해주세요.");
 		for(int i=0; i<5; i++) {
 			intArray[i] = scanner.nextInt();
+			
 //			System.out.println(intArray[i]);
 			if(intArray[i] > max) {
 				max = intArray[i];
