@@ -7,7 +7,7 @@ public class Point {
 	
 	// 행위(메서드)를 통해서 내부의 속성을 바꾸는게 좋다.
 	
-	// getter / setter
+	// getter / setter // 위 메뉴 중 Source 를 통해 들어가 선택할 수 있음.
 	// getter (읽기전용)
 	
 	// return 타입이 없을때 void
